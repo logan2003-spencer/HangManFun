@@ -72,4 +72,8 @@ Console.WriteLine("Thanks for playing!:()");
 Console.WriteLine("Press any key to exit Reiner...");
 
 
+Console.WriteLine("It's been 4 years olds!");
+
+
+
 
