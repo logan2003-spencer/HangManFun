@@ -69,3 +69,7 @@ Console.WriteLine("Thanks for playing!:()");
 
 
 
+Console.WriteLine("Press any key to exit Reiner...");
+
+
+
